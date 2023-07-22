@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/miniature-workmen-repairing-laptop-keyboard_1252-849.jpg?size=626&ext=jpg&uid=R43024817&ga=GA1.2.1187997910.1689400849&semt=ais" >
+
 
 # 💫 About Me:
 Hi, there 🙋<br><br>I'm BADAL KUMAR BEHERA from India. I am currently pursuing my bachelor's degree. <br>I am brushing up on my Full-Stack development skill and really enjoy learning languages  and frameworks.
@@ -24,7 +24,7 @@ Hi, there 🙋<br><br>I'm BADAL KUMAR BEHERA from India. I am currently pursuing
 ![](https://github-contributor-stats.vercel.app/api?username=6370409016&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkIsRNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/14gnwo0906nsgjiigx0f.png)" width="512px"/>
+<img src="[[https://rm.up.railway.app/](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkIsRNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/14gnwo0906nsgjiigx0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkIsRNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/14gnwo0906nsgjiigx0f.png)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=6370409016&icon=0&color=0)](https://visitcount.itsvg.in)
