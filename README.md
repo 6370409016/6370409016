@@ -1,4 +1,5 @@
-![Design and Development](https://github.com/6370409016/6370409016/blob/main/Github_Banner.png)
+<img src="https://github.com/6370409016/6370409016/blob/main/Github_Banner.png" alt="github-profile-banner">
+
 # 💫 About Me:
 Hi, there 🙋<br><br>I'm BADAL KUMAR BEHERA from India. I am currently pursuing my bachelor's degree. <br>I am brushing up on my Full-Stack development skill and really enjoy learning languages  and frameworks.
 
