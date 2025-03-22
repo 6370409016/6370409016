@@ -5,10 +5,10 @@ Hi there! 👋<br><br><br>
 
 I'm Badal Kumar Behera from India. I graduated in 2024 from Centurion University of Technology and Management, Odisha, with a degree in Computer Science.
 
-🔹 I'm a Full-Stack Developer passionate about building scalable web applications using React.js, Node.js, Express.js, and MongoDB.
-🔹 I enjoy working on real-time applications, AI-powered projects, and open-source contributions.
-🔹 Currently exploring DevOps and advanced backend technologies to enhance my skill set.
-🔹 Open to collaboration on MERN stack projects and innovative web solutions.
+🔹 I'm a Full-Stack Developer passionate about building scalable web applications using React.js, Node.js, Express.js, and MongoDB. <br>
+🔹 I enjoy working on real-time applications, AI-powered projects, and open-source contributions. <br>
+🔹 Currently exploring DevOps and advanced backend technologies to enhance my skill set. <br>
+🔹 Open to collaboration on MERN stack projects and innovative web solutions. <br>
 
 Let's connect and build something amazing! 🚀
 
