@@ -1,8 +1,16 @@
 
 
 # 💫 About Me:
-Hi, there 🙋<br><br>I'm BADAL KUMAR BEHERA from India. I am currently pursuing my bachelor's degree. <br>I am brushing up on my Full-Stack development skill and really enjoy learning languages  and frameworks.
+Hi there! 👋<br><br><br>
 
+I'm Badal Kumar Behera from India. I graduated in 2024 from Centurion University of Technology and Management, Odisha, with a degree in Computer Science.
+
+🔹 I'm a Full-Stack Developer passionate about building scalable web applications using React.js, Node.js, Express.js, and MongoDB.
+🔹 I enjoy working on real-time applications, AI-powered projects, and open-source contributions.
+🔹 Currently exploring DevOps and advanced backend technologies to enhance my skill set.
+🔹 Open to collaboration on MERN stack projects and innovative web solutions.
+
+Let's connect and build something amazing! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Badal Kumar Behera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/badal_kumar_behera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Badal Kumar Behera) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18196202) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/badal7847) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Badalku7847) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Badal7847) 
